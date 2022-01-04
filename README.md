@@ -1,1 +1,1 @@
-# STM32---Devkit
+# STM32 - Devkit with USB Connection + RGB Led
